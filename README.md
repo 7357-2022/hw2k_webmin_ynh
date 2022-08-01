@@ -44,9 +44,9 @@ Please send your pull request to the [testing branch](https://github.com/YunoHos
 To try the testing branch, please proceed like that.
 
 ``` bash
-sudo yunohost app install https://github.com/YunoHost-Apps/webmin_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/7357-2022/hw2k_webmin_ynh/tree/testing --debug
 or
-sudo yunohost app upgrade webmin -u https://github.com/YunoHost-Apps/webmin_ynh/tree/testing --debug
+sudo yunohost app upgrade webmin -u https://github.com/7357-2022/hw2k_webmin_ynh/tree/testing --debug
 ```
 
 **More info regarding app packaging:** <https://yunohost.org/packaging_apps>
