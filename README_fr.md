@@ -39,7 +39,7 @@ Webmin is a web-based interface for system administration for Unix. Using any mo
 
 ## Informations pour les développeurs
 
-Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/webmin_ynh/tree/testing).
+Merci de faire vos pull request sur la [branche testing](https://github.com/7357-2022/hw2k_webmin_ynh/tree/testing).
 
 Pour essayer la branche testing, procédez comme suit.
 
