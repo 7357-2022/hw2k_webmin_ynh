@@ -67,7 +67,7 @@ echo "Handling asset at $asset_url"
 # Here we base the source file name upon a unique keyword in the assets url (admin vs. update)
 # Leave $src empty to ignore the asset
 case $asset_url in
-  *".tar.gz")
+  *"deb"*)
     src="app"
     ;;
   *)
@@ -101,8 +101,10 @@ cat <<EOT > conf/$src.src
 SOURCE_URL=$asset_url
 SOURCE_SUM=$checksum
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
+SOURCE_FORMAT=deb
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=webmin.deb
+SOURCE_EXTRACT=false
 EOT
 echo "... conf/$src.src updated"
 
