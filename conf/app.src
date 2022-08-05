@@ -1,7 +1,5 @@
-SOURCE_URL=https://github.com/webmin/webmin/releases/download/1.998/webmin_1.998_all.deb
-SOURCE_SUM=753e42d7d18fc2c1d4acef4e8867dfe104ac3e73e660fc3f5e2f1d22b2d9e8c4
+SOURCE_URL=https://github.com/webmin/webmin/releases/download/1.999/webmin-1.999.tar.gz
+SOURCE_SUM=970b6a88a5cda77279aef608e28061f6b7f7f5f7f822489f82f2086d9f2fbd1a
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=deb
-SOURCE_IN_SUBDIR=false
-SOURCE_FILENAME=webmin.deb
-SOURCE_EXTRACT=false
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
