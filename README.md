@@ -8,8 +8,6 @@ It shall NOT be edited by hand.
 [![Integration level](https://dash.yunohost.org/integration/webmin.svg)](https://dash.yunohost.org/appci/app/webmin) ![Working status](https://ci-apps.yunohost.org/ci/badges/webmin.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/webmin.maintain.svg)  
 [![Install Webmin with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=webmin)
 
-*[Lire ce readme en français.](./README_fr.md)*
-
 > *This package allows you to install Webmin quickly and simply on a YunoHost server.
 If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/install) to learn how to install it.*
 
