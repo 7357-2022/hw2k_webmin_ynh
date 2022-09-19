@@ -15,7 +15,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Webmin is a web-based interface for system administration for Unix. Using any modern web browser, you can setup user accounts, Apache, DNS, file sharing and much more. Webmin removes the need to manually edit Unix configuration files like `/etc/passwd`, and lets you manage a system from the console or remotely.
 
-**Shipped version:** 2.000~ynh1
+**Shipped version:** 2.001~ynh1
 
 ## Screenshots
 
@@ -43,7 +43,9 @@ To try the testing branch, please proceed like that.
 
 ``` bash
 sudo yunohost app install https://github.com/7357-2022/hw2k_webmin_ynh/tree/testing --debug
+```
 or
+```
 sudo yunohost app upgrade webmin -u https://github.com/7357-2022/hw2k_webmin_ynh/tree/testing --debug
 ```
 
