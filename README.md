@@ -43,7 +43,9 @@ To try the testing branch, please proceed like that.
 
 ``` bash
 sudo yunohost app install https://github.com/7357-2022/hw2k_webmin_ynh/tree/testing --debug
+```
 or
+```
 sudo yunohost app upgrade webmin -u https://github.com/7357-2022/hw2k_webmin_ynh/tree/testing --debug
 ```
 
