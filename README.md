@@ -30,6 +30,7 @@ Webmin is a web-based interface for system administration for Unix. Using any mo
 
 ## Documentation and resources
 
+* Yunohost app: <https://github.com/YunoHost-Apps/webmin_ynh>
 * Official app website: <http://www.webmin.com>
 * Upstream app code repository: <https://github.com/webmin/webmin>
 * YunoHost documentation for this app: <https://yunohost.org/app_webmin>
