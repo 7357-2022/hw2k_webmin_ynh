@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/webmin/webmin/releases/download/2.001/webmin_2.001_all.deb
-SOURCE_SUM=1bac754988537fd168cbf15322aed5a7087271269dea5816061f008817136d26
+SOURCE_URL=https://sourceforge.net/projects/webadmin/files/webmin/2.003/webmin_2.003_all.deb
+SOURCE_SUM=7e3f78c270c55947e3d0e8d48fc86c75f6cc94c7e3cfad1683a7a524a6b7fd0b
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=false
